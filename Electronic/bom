@@ -1,0 +1,47 @@
+Partlist																	
+Exported from RyanWalkowiakLab3.brd at 3/2/2021 2:45 PM																	
+																	
+																	
+Part     Value                      Package         Library                     Position (mil)        Orientation													Cost Per 		Total for 3		Cost per 1
+												OshBoard	$70.15 	5 day shipping	$148.80 		$49.60 
+C1       1uF                        C0805           rcl                         (1250 2900)           R270											Link	Capacitor	$0.26 				
+C2       1uF                        C0805           rcl                         (1450 2900)           R270												Capacitor	$0.26 				
+C3       1uF                        C0805           rcl                         (1650 2900)           R270												Capacitor	$0.26 				
+C4       1uF                        C0805           rcl                         (2000 2100)           R0												Capacitor	$0.26 				
+C5       1uF                        C0805           rcl                         (2000 1900)           R180												Capacitor	$0.26 				
+J1       AVR_SPI_PROG_3X2TESTPOINTS 2X3_TEST_POINTS SparkFun-Connectors         (2700 2100)           R180												2x3 test	$0.00 				
+J2       10118192-0002LF            10118192-0002LF USB connector               (1250 2500)           R0											link	Usb 	$0.39 				
+LED1                                CHIP-LED0805    led                         (3150 4100)           R0											Link	Led	$0.14 				
+LED2                                CHIP-LED0805    led                         (2950 4100)           R0												Led	$0.14 				
+LED3                                CHIP-LED0805    led                         (2750 4100)           R0												Led	$0.14 				
+LED4                                CHIP-LED0805    led                         (2550 4100)           R0												Led	$0.14 				
+LED5                                CHIP-LED0805    led                         (2350 4100)           R0												Led	$0.14 				
+LED6                                CHIP-LED0805    led                         (2150 4100)           R0												Led	$0.14 				
+LED7                                CHIP-LED0805    led                         (1950 4100)           R0												Led	$0.14 				
+LED8                                CHIP-LED0805    led                         (1750 4100)           R0												Led	$0.14 				
+LED9                                CHIP-LED0805    led                         (1550 4100)           R0												Led	$0.14 				
+LED10                               CHIP-LED0805    led                         (1350 4100)           R0												Led	$0.14 				
+LED11                               CHIP-LED0805    led                         (1150 4100)           R0												Led	$0.14 				
+LED12                               CHIP-LED0805    led                         (950 4100)            R0												Led	$0.14 				
+LED13                               CHIP-LED0805    led                         (2050 1500)           R180												Led	$0.14 				
+LED14                               CHIP-LED0805    led                         (1900 1500)           R180												Led	$0.14 				
+R1       1k                         R0805           rcl                         (2350 3900)           R0											link	Resistor	$0.15 				
+R2       1k                         R0805           rcl                         (2550 3900)           R0												Resistor	$0.15 				
+R3       1k                         R0805           rcl                         (2750 3900)           R0												Resistor	$0.15 				
+R4       1k                         R0805           rcl                         (2950 3900)           R0												Resistor	$0.15 				
+R5       1k                         R0805           rcl                         (3150 3900)           R0												Resistor	$0.15 				
+R6       1k                         R0805           rcl                         (2200 2600)           R0												Resistor	$0.15 				
+R7       1K                         R0805           rcl                         (2000 2600)           R0												Resistor	$0.15 				
+R8       1k                         R0805           rcl                         (2150 3900)           R0												Resistor	$0.15 				
+R9       1k                         R0805           rcl                         (1950 3900)           R0												Resistor	$0.15 				
+R10      1k                         R0805           rcl                         (1750 3900)           R0												Resistor	$0.15 				
+R11      1k                         R0805           rcl                         (1550 3900)           R0												Resistor	$0.15 				
+R12      1k                         R0805           rcl                         (1350 3900)           R0												Resistor	$0.15 				
+R13      1k                         R0805           rcl                         (1150 3900)           R0												Resistor	$0.15 				
+R14      1K                         R0805           rcl                         (950 3900)            R0												Resistor	$0.15 				
+R15      1k                         R0805           rcl                         (1650 3150)           R90												Resistor	$0.15 				
+R16      1k                         R0805           rcl                         (2190 1665)           R90												Resistor	$0.15 				
+R17      1K                         R0805           rcl                         (1950 1650)           R0												Resistor	$0.15 				
+U$2      CH340C                     SOP-16          Library of stuff            (1550 1750)           R270											Link	CH340	$16.95 				
+U1       ATMEGA328P_TQFP            TQFP32-08       SparkFun-IC-Microcontroller (2500 2800)           R90											Link	ATMEGA328P	$2.52 				
+X1       16Mhz                      CSTCE16M0V53-R0 Crystals_Oscillators        (2900 2550)           R180											link	Oscillator	$0.56 				
